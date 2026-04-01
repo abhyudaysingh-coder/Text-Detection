@@ -106,8 +106,4 @@ This project is open-source and available under the MIT License.
 
 ---
 
-If you want, I can also:
 
-* Make this **GitHub-ready with badges**
-* Add **GIF demo preview**
-* Or structure it like a **top-tier ML project README (portfolio level)**
