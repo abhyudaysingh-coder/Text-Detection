@@ -1,7 +1,3 @@
-Here’s a clean, professional **README.md** you can use for your project 👇
-
----
-
 # 🧠 Text Detection using OpenCV & EasyOCR
 
 A simple yet powerful Python project that detects and visualizes text in images using **EasyOCR** and **OpenCV**. The detected text is highlighted with bounding boxes and labeled directly on the image.
